@@ -1,0 +1,448 @@
+state_name,state_fips,technology,file_id,file_name,download_link
+Alabama,01,Other,1582331,bdc_01_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582331/1
+Arizona,04,Other,1582332,bdc_04_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582332/1
+California,06,Other,1582333,bdc_06_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582333/1
+Florida,12,Other,1582334,bdc_12_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582334/1
+Illinois,17,Other,1582335,bdc_17_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582335/1
+Kansas,20,Other,1582336,bdc_20_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582336/1
+Massachusetts,25,Other,1582337,bdc_25_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582337/1
+Minnesota,27,Other,1582338,bdc_27_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582338/1
+Missouri,29,Other,1582339,bdc_29_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582339/1
+Nevada,32,Other,1582340,bdc_32_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582340/1
+New York,36,Other,1582341,bdc_36_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582341/1
+Oklahoma,40,Other,1582342,bdc_40_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582342/1
+Pennsylvania,42,Other,1582343,bdc_42_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582343/1
+Texas,48,Other,1582344,bdc_48_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582344/1
+Wisconsin,55,Other,1582345,bdc_55_Other_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582345/1
+Alabama,01,Copper,1582346,bdc_01_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582346/1
+Alaska,02,Copper,1582347,bdc_02_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582347/1
+Arizona,04,Copper,1582348,bdc_04_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582348/1
+Arkansas,05,Copper,1582349,bdc_05_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582349/1
+California,06,Copper,1582350,bdc_06_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582350/1
+Colorado,08,Copper,1582351,bdc_08_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582351/1
+Commonwealth of the Northern Mariana Islands,69,Copper,1582398,bdc_69_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582398/1
+Connecticut,09,Copper,1582352,bdc_09_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582352/1
+Delaware,10,Copper,1582353,bdc_10_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582353/1
+District of Columbia,11,Copper,1582354,bdc_11_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582354/1
+Florida,12,Copper,1582355,bdc_12_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582355/1
+Georgia,13,Copper,1582356,bdc_13_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582356/1
+Guam,66,Copper,1582397,bdc_66_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582397/1
+Hawaii,15,Copper,1582357,bdc_15_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582357/1
+Idaho,16,Copper,1582358,bdc_16_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582358/1
+Illinois,17,Copper,1582359,bdc_17_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582359/1
+Indiana,18,Copper,1582360,bdc_18_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582360/1
+Iowa,19,Copper,1582361,bdc_19_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582361/1
+Kansas,20,Copper,1582362,bdc_20_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582362/1
+Kentucky,21,Copper,1582363,bdc_21_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582363/1
+Louisiana,22,Copper,1582364,bdc_22_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582364/1
+Maine,23,Copper,1582365,bdc_23_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582365/1
+Maryland,24,Copper,1582366,bdc_24_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582366/1
+Massachusetts,25,Copper,1582367,bdc_25_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582367/1
+Michigan,26,Copper,1582368,bdc_26_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582368/1
+Minnesota,27,Copper,1582369,bdc_27_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582369/1
+Mississippi,28,Copper,1582370,bdc_28_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582370/1
+Missouri,29,Copper,1582371,bdc_29_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582371/1
+Montana,30,Copper,1582372,bdc_30_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582372/1
+Nebraska,31,Copper,1582373,bdc_31_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582373/1
+Nevada,32,Copper,1582374,bdc_32_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582374/1
+New Hampshire,33,Copper,1582375,bdc_33_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582375/1
+New Jersey,34,Copper,1582376,bdc_34_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582376/1
+New Mexico,35,Copper,1582377,bdc_35_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582377/1
+New York,36,Copper,1582378,bdc_36_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582378/1
+North Carolina,37,Copper,1582379,bdc_37_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582379/1
+North Dakota,38,Copper,1582380,bdc_38_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582380/1
+Ohio,39,Copper,1582381,bdc_39_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582381/1
+Oklahoma,40,Copper,1582382,bdc_40_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582382/1
+Oregon,41,Copper,1582383,bdc_41_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582383/1
+Pennsylvania,42,Copper,1582384,bdc_42_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582384/1
+Puerto Rico,72,Copper,1582399,bdc_72_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582399/1
+Rhode Island,44,Copper,1582385,bdc_44_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582385/1
+South Carolina,45,Copper,1582386,bdc_45_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582386/1
+South Dakota,46,Copper,1582387,bdc_46_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582387/1
+Tennessee,47,Copper,1582388,bdc_47_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582388/1
+Texas,48,Copper,1582389,bdc_48_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582389/1
+Utah,49,Copper,1582390,bdc_49_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582390/1
+Vermont,50,Copper,1582391,bdc_50_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582391/1
+Virginia,51,Copper,1582392,bdc_51_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582392/1
+Washington,53,Copper,1582393,bdc_53_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582393/1
+West Virginia,54,Copper,1582394,bdc_54_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582394/1
+Wisconsin,55,Copper,1582395,bdc_55_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582395/1
+Wyoming,56,Copper,1582396,bdc_56_Copper_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582396/1
+Alabama,01,Cable,1582400,bdc_01_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582400/1
+Alaska,02,Cable,1582401,bdc_02_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582401/1
+American Samoa,60,Cable,1582451,bdc_60_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582451/1
+Arizona,04,Cable,1582402,bdc_04_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582402/1
+Arkansas,05,Cable,1582403,bdc_05_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582403/1
+California,06,Cable,1582404,bdc_06_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582404/1
+Colorado,08,Cable,1582405,bdc_08_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582405/1
+Commonwealth of the Northern Mariana Islands,69,Cable,1582453,bdc_69_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582453/1
+Connecticut,09,Cable,1582406,bdc_09_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582406/1
+Delaware,10,Cable,1582407,bdc_10_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582407/1
+District of Columbia,11,Cable,1582408,bdc_11_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582408/1
+Florida,12,Cable,1582409,bdc_12_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582409/1
+Georgia,13,Cable,1582410,bdc_13_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582410/1
+Guam,66,Cable,1582452,bdc_66_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582452/1
+Hawaii,15,Cable,1582411,bdc_15_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582411/1
+Idaho,16,Cable,1582412,bdc_16_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582412/1
+Illinois,17,Cable,1582413,bdc_17_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582413/1
+Indiana,18,Cable,1582414,bdc_18_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582414/1
+Iowa,19,Cable,1582415,bdc_19_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582415/1
+Kansas,20,Cable,1582416,bdc_20_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582416/1
+Kentucky,21,Cable,1582417,bdc_21_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582417/1
+Louisiana,22,Cable,1582418,bdc_22_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582418/1
+Maine,23,Cable,1582419,bdc_23_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582419/1
+Maryland,24,Cable,1582420,bdc_24_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582420/1
+Massachusetts,25,Cable,1582421,bdc_25_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582421/1
+Michigan,26,Cable,1582422,bdc_26_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582422/1
+Minnesota,27,Cable,1582423,bdc_27_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582423/1
+Mississippi,28,Cable,1582424,bdc_28_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582424/1
+Missouri,29,Cable,1582425,bdc_29_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582425/1
+Montana,30,Cable,1582426,bdc_30_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582426/1
+Nebraska,31,Cable,1582427,bdc_31_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582427/1
+Nevada,32,Cable,1582428,bdc_32_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582428/1
+New Hampshire,33,Cable,1582429,bdc_33_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582429/1
+New Jersey,34,Cable,1582430,bdc_34_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582430/1
+New Mexico,35,Cable,1582431,bdc_35_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582431/1
+New York,36,Cable,1582432,bdc_36_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582432/1
+North Carolina,37,Cable,1582433,bdc_37_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582433/1
+North Dakota,38,Cable,1582434,bdc_38_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582434/1
+Ohio,39,Cable,1582435,bdc_39_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582435/1
+Oklahoma,40,Cable,1582436,bdc_40_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582436/1
+Oregon,41,Cable,1582437,bdc_41_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582437/1
+Pennsylvania,42,Cable,1582438,bdc_42_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582438/1
+Puerto Rico,72,Cable,1582454,bdc_72_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582454/1
+Rhode Island,44,Cable,1582439,bdc_44_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582439/1
+South Carolina,45,Cable,1582440,bdc_45_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582440/1
+South Dakota,46,Cable,1582441,bdc_46_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582441/1
+Tennessee,47,Cable,1582442,bdc_47_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582442/1
+Texas,48,Cable,1582443,bdc_48_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582443/1
+United States Virgin Islands,78,Cable,1582455,bdc_78_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582455/1
+Utah,49,Cable,1582444,bdc_49_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582444/1
+Vermont,50,Cable,1582445,bdc_50_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582445/1
+Virginia,51,Cable,1582446,bdc_51_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582446/1
+Washington,53,Cable,1582447,bdc_53_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582447/1
+West Virginia,54,Cable,1582448,bdc_54_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582448/1
+Wisconsin,55,Cable,1582449,bdc_55_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582449/1
+Wyoming,56,Cable,1582450,bdc_56_Cable_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582450/1
+Alabama,01,Fiber to the Premises,1582456,bdc_01_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582456/1
+Alaska,02,Fiber to the Premises,1582457,bdc_02_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582457/1
+American Samoa,60,Fiber to the Premises,1582507,bdc_60_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582507/1
+Arizona,04,Fiber to the Premises,1582458,bdc_04_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582458/1
+Arkansas,05,Fiber to the Premises,1582459,bdc_05_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582459/1
+California,06,Fiber to the Premises,1582460,bdc_06_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582460/1
+Colorado,08,Fiber to the Premises,1582461,bdc_08_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582461/1
+Commonwealth of the Northern Mariana Islands,69,Fiber to the Premises,1582509,bdc_69_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582509/1
+Connecticut,09,Fiber to the Premises,1582462,bdc_09_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582462/1
+Delaware,10,Fiber to the Premises,1582463,bdc_10_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582463/1
+District of Columbia,11,Fiber to the Premises,1582464,bdc_11_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582464/1
+Florida,12,Fiber to the Premises,1582465,bdc_12_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582465/1
+Georgia,13,Fiber to the Premises,1582466,bdc_13_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582466/1
+Guam,66,Fiber to the Premises,1582508,bdc_66_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582508/1
+Hawaii,15,Fiber to the Premises,1582467,bdc_15_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582467/1
+Idaho,16,Fiber to the Premises,1582468,bdc_16_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582468/1
+Illinois,17,Fiber to the Premises,1582469,bdc_17_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582469/1
+Indiana,18,Fiber to the Premises,1582470,bdc_18_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582470/1
+Iowa,19,Fiber to the Premises,1582471,bdc_19_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582471/1
+Kansas,20,Fiber to the Premises,1582472,bdc_20_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582472/1
+Kentucky,21,Fiber to the Premises,1582473,bdc_21_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582473/1
+Louisiana,22,Fiber to the Premises,1582474,bdc_22_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582474/1
+Maine,23,Fiber to the Premises,1582475,bdc_23_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582475/1
+Maryland,24,Fiber to the Premises,1582476,bdc_24_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582476/1
+Massachusetts,25,Fiber to the Premises,1582477,bdc_25_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582477/1
+Michigan,26,Fiber to the Premises,1582478,bdc_26_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582478/1
+Minnesota,27,Fiber to the Premises,1582479,bdc_27_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582479/1
+Mississippi,28,Fiber to the Premises,1582480,bdc_28_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582480/1
+Missouri,29,Fiber to the Premises,1582481,bdc_29_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582481/1
+Montana,30,Fiber to the Premises,1582482,bdc_30_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582482/1
+Nebraska,31,Fiber to the Premises,1582483,bdc_31_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582483/1
+Nevada,32,Fiber to the Premises,1582484,bdc_32_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582484/1
+New Hampshire,33,Fiber to the Premises,1582485,bdc_33_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582485/1
+New Jersey,34,Fiber to the Premises,1582486,bdc_34_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582486/1
+New Mexico,35,Fiber to the Premises,1582487,bdc_35_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582487/1
+New York,36,Fiber to the Premises,1582488,bdc_36_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582488/1
+North Carolina,37,Fiber to the Premises,1582489,bdc_37_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582489/1
+North Dakota,38,Fiber to the Premises,1582490,bdc_38_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582490/1
+Ohio,39,Fiber to the Premises,1582491,bdc_39_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582491/1
+Oklahoma,40,Fiber to the Premises,1582492,bdc_40_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582492/1
+Oregon,41,Fiber to the Premises,1582493,bdc_41_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582493/1
+Pennsylvania,42,Fiber to the Premises,1582494,bdc_42_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582494/1
+Puerto Rico,72,Fiber to the Premises,1582510,bdc_72_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582510/1
+Rhode Island,44,Fiber to the Premises,1582495,bdc_44_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582495/1
+South Carolina,45,Fiber to the Premises,1582496,bdc_45_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582496/1
+South Dakota,46,Fiber to the Premises,1582497,bdc_46_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582497/1
+Tennessee,47,Fiber to the Premises,1582498,bdc_47_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582498/1
+Texas,48,Fiber to the Premises,1582499,bdc_48_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582499/1
+United States Virgin Islands,78,Fiber to the Premises,1582511,bdc_78_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582511/1
+Utah,49,Fiber to the Premises,1582500,bdc_49_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582500/1
+Vermont,50,Fiber to the Premises,1582501,bdc_50_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582501/1
+Virginia,51,Fiber to the Premises,1582502,bdc_51_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582502/1
+Washington,53,Fiber to the Premises,1582503,bdc_53_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582503/1
+West Virginia,54,Fiber to the Premises,1582504,bdc_54_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582504/1
+Wisconsin,55,Fiber to the Premises,1582505,bdc_55_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582505/1
+Wyoming,56,Fiber to the Premises,1582506,bdc_56_FibertothePremises_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582506/1
+Alabama,01,GSO Satellite,1582512,bdc_01_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582512/1
+Alaska,02,GSO Satellite,1582513,bdc_02_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582513/1
+Arizona,04,GSO Satellite,1582514,bdc_04_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582514/1
+Arkansas,05,GSO Satellite,1582515,bdc_05_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582515/1
+California,06,GSO Satellite,1582516,bdc_06_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582516/1
+Colorado,08,GSO Satellite,1582517,bdc_08_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582517/1
+Connecticut,09,GSO Satellite,1582518,bdc_09_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582518/1
+Delaware,10,GSO Satellite,1582519,bdc_10_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582519/1
+District of Columbia,11,GSO Satellite,1582520,bdc_11_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582520/1
+Florida,12,GSO Satellite,1582521,bdc_12_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582521/1
+Georgia,13,GSO Satellite,1582522,bdc_13_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582522/1
+Hawaii,15,GSO Satellite,1582523,bdc_15_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582523/1
+Idaho,16,GSO Satellite,1582524,bdc_16_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582524/1
+Illinois,17,GSO Satellite,1582525,bdc_17_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582525/1
+Indiana,18,GSO Satellite,1582526,bdc_18_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582526/1
+Iowa,19,GSO Satellite,1582527,bdc_19_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582527/1
+Kansas,20,GSO Satellite,1582528,bdc_20_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582528/1
+Kentucky,21,GSO Satellite,1582529,bdc_21_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582529/1
+Louisiana,22,GSO Satellite,1582530,bdc_22_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582530/1
+Maine,23,GSO Satellite,1582531,bdc_23_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582531/1
+Maryland,24,GSO Satellite,1582532,bdc_24_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582532/1
+Massachusetts,25,GSO Satellite,1582533,bdc_25_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582533/1
+Michigan,26,GSO Satellite,1582534,bdc_26_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582534/1
+Minnesota,27,GSO Satellite,1582535,bdc_27_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582535/1
+Mississippi,28,GSO Satellite,1582536,bdc_28_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582536/1
+Missouri,29,GSO Satellite,1582537,bdc_29_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582537/1
+Montana,30,GSO Satellite,1582538,bdc_30_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582538/1
+Nebraska,31,GSO Satellite,1582539,bdc_31_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582539/1
+Nevada,32,GSO Satellite,1582540,bdc_32_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582540/1
+New Hampshire,33,GSO Satellite,1582541,bdc_33_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582541/1
+New Jersey,34,GSO Satellite,1582542,bdc_34_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582542/1
+New Mexico,35,GSO Satellite,1582543,bdc_35_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582543/1
+New York,36,GSO Satellite,1582544,bdc_36_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582544/1
+North Carolina,37,GSO Satellite,1582545,bdc_37_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582545/1
+North Dakota,38,GSO Satellite,1582546,bdc_38_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582546/1
+Ohio,39,GSO Satellite,1582547,bdc_39_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582547/1
+Oklahoma,40,GSO Satellite,1582548,bdc_40_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582548/1
+Oregon,41,GSO Satellite,1582549,bdc_41_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582549/1
+Pennsylvania,42,GSO Satellite,1582550,bdc_42_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582550/1
+Puerto Rico,72,GSO Satellite,1582563,bdc_72_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582563/1
+Rhode Island,44,GSO Satellite,1582551,bdc_44_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582551/1
+South Carolina,45,GSO Satellite,1582552,bdc_45_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582552/1
+South Dakota,46,GSO Satellite,1582553,bdc_46_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582553/1
+Tennessee,47,GSO Satellite,1582554,bdc_47_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582554/1
+Texas,48,GSO Satellite,1582555,bdc_48_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582555/1
+United States Virgin Islands,78,GSO Satellite,1582564,bdc_78_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582564/1
+Utah,49,GSO Satellite,1582556,bdc_49_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582556/1
+Vermont,50,GSO Satellite,1582557,bdc_50_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582557/1
+Virginia,51,GSO Satellite,1582558,bdc_51_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582558/1
+Washington,53,GSO Satellite,1582559,bdc_53_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582559/1
+West Virginia,54,GSO Satellite,1582560,bdc_54_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582560/1
+Wisconsin,55,GSO Satellite,1582561,bdc_55_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582561/1
+Wyoming,56,GSO Satellite,1582562,bdc_56_GSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582562/1
+Alabama,01,NGSO Satellite,1582565,bdc_01_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582565/1
+Alaska,02,NGSO Satellite,1582566,bdc_02_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582566/1
+American Samoa,60,NGSO Satellite,1582616,bdc_60_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582616/1
+Arizona,04,NGSO Satellite,1582567,bdc_04_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582567/1
+Arkansas,05,NGSO Satellite,1582568,bdc_05_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582568/1
+California,06,NGSO Satellite,1582569,bdc_06_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582569/1
+Colorado,08,NGSO Satellite,1582570,bdc_08_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582570/1
+Commonwealth of the Northern Mariana Islands,69,NGSO Satellite,1582618,bdc_69_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582618/1
+Connecticut,09,NGSO Satellite,1582571,bdc_09_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582571/1
+Delaware,10,NGSO Satellite,1582572,bdc_10_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582572/1
+District of Columbia,11,NGSO Satellite,1582573,bdc_11_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582573/1
+Florida,12,NGSO Satellite,1582574,bdc_12_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582574/1
+Georgia,13,NGSO Satellite,1582575,bdc_13_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582575/1
+Guam,66,NGSO Satellite,1582617,bdc_66_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582617/1
+Hawaii,15,NGSO Satellite,1582576,bdc_15_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582576/1
+Idaho,16,NGSO Satellite,1582577,bdc_16_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582577/1
+Illinois,17,NGSO Satellite,1582578,bdc_17_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582578/1
+Indiana,18,NGSO Satellite,1582579,bdc_18_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582579/1
+Iowa,19,NGSO Satellite,1582580,bdc_19_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582580/1
+Kansas,20,NGSO Satellite,1582581,bdc_20_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582581/1
+Kentucky,21,NGSO Satellite,1582582,bdc_21_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582582/1
+Louisiana,22,NGSO Satellite,1582583,bdc_22_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582583/1
+Maine,23,NGSO Satellite,1582584,bdc_23_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582584/1
+Maryland,24,NGSO Satellite,1582585,bdc_24_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582585/1
+Massachusetts,25,NGSO Satellite,1582586,bdc_25_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582586/1
+Michigan,26,NGSO Satellite,1582587,bdc_26_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582587/1
+Minnesota,27,NGSO Satellite,1582588,bdc_27_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582588/1
+Mississippi,28,NGSO Satellite,1582589,bdc_28_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582589/1
+Missouri,29,NGSO Satellite,1582590,bdc_29_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582590/1
+Montana,30,NGSO Satellite,1582591,bdc_30_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582591/1
+Nebraska,31,NGSO Satellite,1582592,bdc_31_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582592/1
+Nevada,32,NGSO Satellite,1582593,bdc_32_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582593/1
+New Hampshire,33,NGSO Satellite,1582594,bdc_33_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582594/1
+New Jersey,34,NGSO Satellite,1582595,bdc_34_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582595/1
+New Mexico,35,NGSO Satellite,1582596,bdc_35_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582596/1
+New York,36,NGSO Satellite,1582597,bdc_36_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582597/1
+North Carolina,37,NGSO Satellite,1582598,bdc_37_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582598/1
+North Dakota,38,NGSO Satellite,1582599,bdc_38_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582599/1
+Ohio,39,NGSO Satellite,1582600,bdc_39_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582600/1
+Oklahoma,40,NGSO Satellite,1582601,bdc_40_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582601/1
+Oregon,41,NGSO Satellite,1582602,bdc_41_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582602/1
+Pennsylvania,42,NGSO Satellite,1582603,bdc_42_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582603/1
+Puerto Rico,72,NGSO Satellite,1582619,bdc_72_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582619/1
+Rhode Island,44,NGSO Satellite,1582604,bdc_44_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582604/1
+South Carolina,45,NGSO Satellite,1582605,bdc_45_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582605/1
+South Dakota,46,NGSO Satellite,1582606,bdc_46_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582606/1
+Tennessee,47,NGSO Satellite,1582607,bdc_47_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582607/1
+Texas,48,NGSO Satellite,1582608,bdc_48_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582608/1
+United States Virgin Islands,78,NGSO Satellite,1582620,bdc_78_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582620/1
+Utah,49,NGSO Satellite,1582609,bdc_49_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582609/1
+Vermont,50,NGSO Satellite,1582610,bdc_50_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582610/1
+Virginia,51,NGSO Satellite,1582611,bdc_51_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582611/1
+Washington,53,NGSO Satellite,1582612,bdc_53_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582612/1
+West Virginia,54,NGSO Satellite,1582613,bdc_54_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582613/1
+Wisconsin,55,NGSO Satellite,1582614,bdc_55_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582614/1
+Wyoming,56,NGSO Satellite,1582615,bdc_56_NGSOSatellite_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582615/1
+Alabama,01,Unlicensed Fixed Wireless,1582621,bdc_01_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582621/1
+Alaska,02,Unlicensed Fixed Wireless,1582622,bdc_02_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582622/1
+Arizona,04,Unlicensed Fixed Wireless,1582623,bdc_04_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582623/1
+Arkansas,05,Unlicensed Fixed Wireless,1582624,bdc_05_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582624/1
+California,06,Unlicensed Fixed Wireless,1582625,bdc_06_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582625/1
+Colorado,08,Unlicensed Fixed Wireless,1582626,bdc_08_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582626/1
+Commonwealth of the Northern Mariana Islands,69,Unlicensed Fixed Wireless,1582673,bdc_69_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582673/1
+Connecticut,09,Unlicensed Fixed Wireless,1582627,bdc_09_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582627/1
+Delaware,10,Unlicensed Fixed Wireless,1582628,bdc_10_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582628/1
+District of Columbia,11,Unlicensed Fixed Wireless,1582629,bdc_11_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582629/1
+Florida,12,Unlicensed Fixed Wireless,1582630,bdc_12_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582630/1
+Georgia,13,Unlicensed Fixed Wireless,1582631,bdc_13_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582631/1
+Guam,66,Unlicensed Fixed Wireless,1582672,bdc_66_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582672/1
+Hawaii,15,Unlicensed Fixed Wireless,1582632,bdc_15_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582632/1
+Idaho,16,Unlicensed Fixed Wireless,1582633,bdc_16_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582633/1
+Illinois,17,Unlicensed Fixed Wireless,1582634,bdc_17_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582634/1
+Indiana,18,Unlicensed Fixed Wireless,1582635,bdc_18_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582635/1
+Iowa,19,Unlicensed Fixed Wireless,1582636,bdc_19_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582636/1
+Kansas,20,Unlicensed Fixed Wireless,1582637,bdc_20_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582637/1
+Kentucky,21,Unlicensed Fixed Wireless,1582638,bdc_21_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582638/1
+Louisiana,22,Unlicensed Fixed Wireless,1582639,bdc_22_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582639/1
+Maine,23,Unlicensed Fixed Wireless,1582640,bdc_23_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582640/1
+Maryland,24,Unlicensed Fixed Wireless,1582641,bdc_24_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582641/1
+Massachusetts,25,Unlicensed Fixed Wireless,1582642,bdc_25_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582642/1
+Michigan,26,Unlicensed Fixed Wireless,1582643,bdc_26_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582643/1
+Minnesota,27,Unlicensed Fixed Wireless,1582644,bdc_27_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582644/1
+Mississippi,28,Unlicensed Fixed Wireless,1582645,bdc_28_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582645/1
+Missouri,29,Unlicensed Fixed Wireless,1582646,bdc_29_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582646/1
+Montana,30,Unlicensed Fixed Wireless,1582647,bdc_30_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582647/1
+Nebraska,31,Unlicensed Fixed Wireless,1582648,bdc_31_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582648/1
+Nevada,32,Unlicensed Fixed Wireless,1582649,bdc_32_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582649/1
+New Hampshire,33,Unlicensed Fixed Wireless,1582650,bdc_33_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582650/1
+New Jersey,34,Unlicensed Fixed Wireless,1582651,bdc_34_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582651/1
+New Mexico,35,Unlicensed Fixed Wireless,1582652,bdc_35_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582652/1
+New York,36,Unlicensed Fixed Wireless,1582653,bdc_36_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582653/1
+North Carolina,37,Unlicensed Fixed Wireless,1582654,bdc_37_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582654/1
+North Dakota,38,Unlicensed Fixed Wireless,1582655,bdc_38_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582655/1
+Ohio,39,Unlicensed Fixed Wireless,1582656,bdc_39_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582656/1
+Oklahoma,40,Unlicensed Fixed Wireless,1582657,bdc_40_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582657/1
+Oregon,41,Unlicensed Fixed Wireless,1582658,bdc_41_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582658/1
+Pennsylvania,42,Unlicensed Fixed Wireless,1582659,bdc_42_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582659/1
+Puerto Rico,72,Unlicensed Fixed Wireless,1582674,bdc_72_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582674/1
+Rhode Island,44,Unlicensed Fixed Wireless,1582660,bdc_44_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582660/1
+South Carolina,45,Unlicensed Fixed Wireless,1582661,bdc_45_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582661/1
+South Dakota,46,Unlicensed Fixed Wireless,1582662,bdc_46_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582662/1
+Tennessee,47,Unlicensed Fixed Wireless,1582663,bdc_47_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582663/1
+Texas,48,Unlicensed Fixed Wireless,1582664,bdc_48_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582664/1
+United States Virgin Islands,78,Unlicensed Fixed Wireless,1582675,bdc_78_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582675/1
+Utah,49,Unlicensed Fixed Wireless,1582665,bdc_49_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582665/1
+Vermont,50,Unlicensed Fixed Wireless,1582666,bdc_50_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582666/1
+Virginia,51,Unlicensed Fixed Wireless,1582667,bdc_51_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582667/1
+Washington,53,Unlicensed Fixed Wireless,1582668,bdc_53_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582668/1
+West Virginia,54,Unlicensed Fixed Wireless,1582669,bdc_54_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582669/1
+Wisconsin,55,Unlicensed Fixed Wireless,1582670,bdc_55_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582670/1
+Wyoming,56,Unlicensed Fixed Wireless,1582671,bdc_56_UnlicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582671/1
+Alabama,01,Licensed Fixed Wireless,1582676,bdc_01_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582676/1
+Alaska,02,Licensed Fixed Wireless,1582677,bdc_02_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582677/1
+American Samoa,60,Licensed Fixed Wireless,1582727,bdc_60_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582727/1
+Arizona,04,Licensed Fixed Wireless,1582678,bdc_04_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582678/1
+Arkansas,05,Licensed Fixed Wireless,1582679,bdc_05_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582679/1
+California,06,Licensed Fixed Wireless,1582680,bdc_06_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582680/1
+Colorado,08,Licensed Fixed Wireless,1582681,bdc_08_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582681/1
+Connecticut,09,Licensed Fixed Wireless,1582682,bdc_09_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582682/1
+Delaware,10,Licensed Fixed Wireless,1582683,bdc_10_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582683/1
+District of Columbia,11,Licensed Fixed Wireless,1582684,bdc_11_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582684/1
+Florida,12,Licensed Fixed Wireless,1582685,bdc_12_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582685/1
+Georgia,13,Licensed Fixed Wireless,1582686,bdc_13_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582686/1
+Guam,66,Licensed Fixed Wireless,1582728,bdc_66_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582728/1
+Hawaii,15,Licensed Fixed Wireless,1582687,bdc_15_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582687/1
+Idaho,16,Licensed Fixed Wireless,1582688,bdc_16_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582688/1
+Illinois,17,Licensed Fixed Wireless,1582689,bdc_17_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582689/1
+Indiana,18,Licensed Fixed Wireless,1582690,bdc_18_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582690/1
+Iowa,19,Licensed Fixed Wireless,1582691,bdc_19_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582691/1
+Kansas,20,Licensed Fixed Wireless,1582692,bdc_20_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582692/1
+Kentucky,21,Licensed Fixed Wireless,1582693,bdc_21_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582693/1
+Louisiana,22,Licensed Fixed Wireless,1582694,bdc_22_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582694/1
+Maine,23,Licensed Fixed Wireless,1582695,bdc_23_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582695/1
+Maryland,24,Licensed Fixed Wireless,1582696,bdc_24_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582696/1
+Massachusetts,25,Licensed Fixed Wireless,1582697,bdc_25_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582697/1
+Michigan,26,Licensed Fixed Wireless,1582698,bdc_26_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582698/1
+Minnesota,27,Licensed Fixed Wireless,1582699,bdc_27_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582699/1
+Mississippi,28,Licensed Fixed Wireless,1582700,bdc_28_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582700/1
+Missouri,29,Licensed Fixed Wireless,1582701,bdc_29_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582701/1
+Montana,30,Licensed Fixed Wireless,1582702,bdc_30_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582702/1
+Nebraska,31,Licensed Fixed Wireless,1582703,bdc_31_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582703/1
+Nevada,32,Licensed Fixed Wireless,1582704,bdc_32_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582704/1
+New Hampshire,33,Licensed Fixed Wireless,1582705,bdc_33_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582705/1
+New Jersey,34,Licensed Fixed Wireless,1582706,bdc_34_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582706/1
+New Mexico,35,Licensed Fixed Wireless,1582707,bdc_35_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582707/1
+New York,36,Licensed Fixed Wireless,1582708,bdc_36_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582708/1
+North Carolina,37,Licensed Fixed Wireless,1582709,bdc_37_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582709/1
+North Dakota,38,Licensed Fixed Wireless,1582710,bdc_38_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582710/1
+Ohio,39,Licensed Fixed Wireless,1582711,bdc_39_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582711/1
+Oklahoma,40,Licensed Fixed Wireless,1582712,bdc_40_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582712/1
+Oregon,41,Licensed Fixed Wireless,1582713,bdc_41_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582713/1
+Pennsylvania,42,Licensed Fixed Wireless,1582714,bdc_42_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582714/1
+Puerto Rico,72,Licensed Fixed Wireless,1582729,bdc_72_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582729/1
+Rhode Island,44,Licensed Fixed Wireless,1582715,bdc_44_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582715/1
+South Carolina,45,Licensed Fixed Wireless,1582716,bdc_45_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582716/1
+South Dakota,46,Licensed Fixed Wireless,1582717,bdc_46_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582717/1
+Tennessee,47,Licensed Fixed Wireless,1582718,bdc_47_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582718/1
+Texas,48,Licensed Fixed Wireless,1582719,bdc_48_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582719/1
+Utah,49,Licensed Fixed Wireless,1582720,bdc_49_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582720/1
+Vermont,50,Licensed Fixed Wireless,1582721,bdc_50_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582721/1
+Virginia,51,Licensed Fixed Wireless,1582722,bdc_51_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582722/1
+Washington,53,Licensed Fixed Wireless,1582723,bdc_53_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582723/1
+West Virginia,54,Licensed Fixed Wireless,1582724,bdc_54_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582724/1
+Wisconsin,55,Licensed Fixed Wireless,1582725,bdc_55_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582725/1
+Wyoming,56,Licensed Fixed Wireless,1582726,bdc_56_LicensedFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582726/1
+Alabama,01,LBR Fixed Wireless,1582730,bdc_01_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582730/1
+Alaska,02,LBR Fixed Wireless,1582731,bdc_02_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582731/1
+Arizona,04,LBR Fixed Wireless,1582732,bdc_04_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582732/1
+Arkansas,05,LBR Fixed Wireless,1582733,bdc_05_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582733/1
+California,06,LBR Fixed Wireless,1582734,bdc_06_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582734/1
+Colorado,08,LBR Fixed Wireless,1582735,bdc_08_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582735/1
+Delaware,10,LBR Fixed Wireless,1582736,bdc_10_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582736/1
+Florida,12,LBR Fixed Wireless,1582737,bdc_12_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582737/1
+Georgia,13,LBR Fixed Wireless,1582738,bdc_13_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582738/1
+Idaho,16,LBR Fixed Wireless,1582739,bdc_16_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582739/1
+Illinois,17,LBR Fixed Wireless,1582740,bdc_17_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582740/1
+Indiana,18,LBR Fixed Wireless,1582741,bdc_18_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582741/1
+Iowa,19,LBR Fixed Wireless,1582742,bdc_19_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582742/1
+Kansas,20,LBR Fixed Wireless,1582743,bdc_20_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582743/1
+Kentucky,21,LBR Fixed Wireless,1582744,bdc_21_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582744/1
+Louisiana,22,LBR Fixed Wireless,1582745,bdc_22_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582745/1
+Maine,23,LBR Fixed Wireless,1582746,bdc_23_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582746/1
+Maryland,24,LBR Fixed Wireless,1582747,bdc_24_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582747/1
+Massachusetts,25,LBR Fixed Wireless,1582748,bdc_25_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582748/1
+Michigan,26,LBR Fixed Wireless,1582749,bdc_26_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582749/1
+Minnesota,27,LBR Fixed Wireless,1582750,bdc_27_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582750/1
+Mississippi,28,LBR Fixed Wireless,1582751,bdc_28_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582751/1
+Missouri,29,LBR Fixed Wireless,1582752,bdc_29_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582752/1
+Montana,30,LBR Fixed Wireless,1582753,bdc_30_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582753/1
+Nebraska,31,LBR Fixed Wireless,1582754,bdc_31_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582754/1
+Nevada,32,LBR Fixed Wireless,1582755,bdc_32_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582755/1
+New Hampshire,33,LBR Fixed Wireless,1582756,bdc_33_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582756/1
+New Jersey,34,LBR Fixed Wireless,1582757,bdc_34_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582757/1
+New Mexico,35,LBR Fixed Wireless,1582758,bdc_35_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582758/1
+New York,36,LBR Fixed Wireless,1582759,bdc_36_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582759/1
+North Carolina,37,LBR Fixed Wireless,1582760,bdc_37_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582760/1
+North Dakota,38,LBR Fixed Wireless,1582761,bdc_38_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582761/1
+Ohio,39,LBR Fixed Wireless,1582762,bdc_39_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582762/1
+Oklahoma,40,LBR Fixed Wireless,1582763,bdc_40_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582763/1
+Oregon,41,LBR Fixed Wireless,1582764,bdc_41_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582764/1
+Pennsylvania,42,LBR Fixed Wireless,1582765,bdc_42_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582765/1
+Puerto Rico,72,LBR Fixed Wireless,1582777,bdc_72_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582777/1
+South Carolina,45,LBR Fixed Wireless,1582766,bdc_45_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582766/1
+South Dakota,46,LBR Fixed Wireless,1582767,bdc_46_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582767/1
+Tennessee,47,LBR Fixed Wireless,1582768,bdc_47_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582768/1
+Texas,48,LBR Fixed Wireless,1582769,bdc_48_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582769/1
+Utah,49,LBR Fixed Wireless,1582770,bdc_49_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582770/1
+Vermont,50,LBR Fixed Wireless,1582771,bdc_50_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582771/1
+Virginia,51,LBR Fixed Wireless,1582772,bdc_51_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582772/1
+Washington,53,LBR Fixed Wireless,1582773,bdc_53_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582773/1
+West Virginia,54,LBR Fixed Wireless,1582774,bdc_54_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582774/1
+Wisconsin,55,LBR Fixed Wireless,1582775,bdc_55_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582775/1
+Wyoming,56,LBR Fixed Wireless,1582776,bdc_56_LBRFixedWireless_fixed_broadband_J25_29apr2026,https://broadbandmap.fcc.gov/nbm/map/api/getNBMDataDownloadFile/1582776/1
